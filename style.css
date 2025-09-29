@@ -30,7 +30,6 @@ h3 {
 
 .topnav .search-container{
   float:right;
-  
 }
 
 form{
@@ -57,10 +56,13 @@ input{
   border-radius: 19px;
 }
 
-.column {
-  float:left;
-  width: 25%;
-  padding: 10px 10px;
+#section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .card{
@@ -68,4 +70,9 @@ input{
   padding: 15px;
   text-align:center;
   background-color: #151f30;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
 }
