@@ -17,6 +17,8 @@ A simple movie discovery website that lets you browse popular movies and search 
 3. **View Results**: Movies are displayed as cards with poster images and titles
 
 ## Running the Website
+<img width="2560" height="1247" alt="image" src="https://github.com/user-attachments/assets/4a1c603e-29e7-439b-b1dd-94bda19ab9ad" />
+
 
 1. Open your web browser
 2. Navigate to the website URL
@@ -28,6 +30,7 @@ A simple movie discovery website that lets you browse popular movies and search 
 - Uses The Movie Database (TMDb) API for movie data
 - Responsive CSS Grid layout
 - No frameworks required - runs in any modern web browser
+![Uploading image.png…]()
 
 ## API
 
