@@ -4,6 +4,11 @@
 
 A client-side movie discovery website that allows users to browse popular movies and search for specific titles. The application integrates with The Movie Database (TMDb) API to fetch movie data and displays results in a responsive card-based layout. Built with vanilla HTML, CSS, and JavaScript for simplicity and direct browser compatibility.
 
+## Recent Changes
+
+- **September 29, 2025**: Fixed layout issues by converting from float-based to CSS Grid layout
+- **September 29, 2025**: Added README.md file with project documentation
+
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
