@@ -19,7 +19,7 @@ h3 {
 
 .topnav a{
   float: left;
-  descent-override: block;
+  display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
